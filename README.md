@@ -1,6 +1,15 @@
 # angularjs
 Demonstration of displaying tabular data in AngularJS
 
+# Pre-requisites
+1. Node and NPM 
+2. Visual Studio Code (with Live Server extension)
+
+# Running the example
+1. Run `npm install` from the root folder
+2. Run `gulp` from the root folder. This should generate a `dist` folder from which to run the example
+3. From VSCode, right-click `dist/index.html` and select "Open with Live Server"
+
 # Story
 As the System User I would like to see active user’s personal data in a table so that I may make management decisions. I would like to filter, order and search the data to help me make those decisions.
 ## Definition of Done
