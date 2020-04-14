@@ -1,0 +1,17 @@
+{
+  "name": "EveryBuddyTechTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "David Price",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.7.9",
+    "bootstrap": "^4.4.1"
+  },
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1"
+  }
+}

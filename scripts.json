@@ -1,0 +1,5 @@
+[
+    "./node_modules/angular/angular.js",
+    "./src/app.module.js",
+    "./src/**/*.js"
+]
